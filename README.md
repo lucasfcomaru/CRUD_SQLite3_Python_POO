@@ -1,13 +1,15 @@
-<img src="/assets/banner-conversor-medidas.png"/>
+<img src="/assets/banner-crud-sqlite3.png"/>
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Repo size" title="Repo size"/>
-  <img src="https://img.shields.io/github/languages/count/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Language count" title="Language count"/>
-  <img src="https://img.shields.io/github/forks/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Forks" title="Forks"/>
-  <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Open issues" title="Open issues"/>
-  <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
+    <img src="https://img.shields.io/github/repo-size/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Repo size" title="Repo size"/>
+    <img src="https://img.shields.io/github/languages/count/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Language count" title="Language count"/>
+    <img src="https://img.shields.io/github/forks/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Forks" title="Forks"/>
+    <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Open issues" title="Open issues"/>
+    <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/CRUD_SQLite3_Python_POO?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+    <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
-# 📈 CRUD em Python com SQLite3
+# 💾 CRUD em Python com SQLite3
 ## 📢 Descrição do Projeto
 ### 🎯 Objetivo
 <p align="left">
