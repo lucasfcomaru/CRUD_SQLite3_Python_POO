@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem a versão mais recente do `<Python>` instalada.
 - Você tem a biblioteca `<SQLite3>` instalada.
 
-## ☕ Usando o o projeto para a gestão de estoque
+## ☕ Usando o projeto para a gestão de estoque
 <ul>
     <li>Etapa 1: execute o arquivo main.py.</li>
     <li>Etapa 2: cadastre um novo produto.</li>
